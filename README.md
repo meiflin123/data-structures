@@ -1,5 +1,5 @@
 # data-structures
-This is a project I completed as a student at [hackreactor](http://hackreactor.com).
+This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
 
 # To do: 
 Implement data structures in each of the instantiation styles. 
