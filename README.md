@@ -3,7 +3,7 @@ This is a project I completed as a student at [hackreactor](http://hackreactor.c
 
 
 
-# To do: Object-Oriented Programming
+# To do: 
 Implement data structures in each of the instantiation styles. 
 
 # Instantiation Styles
